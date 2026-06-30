@@ -47,31 +47,40 @@
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**Backend & Frameworks**
+**Frontend**
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+
+**Backend**
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Database & Messaging**
+**Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-525252?style=for-the-badge)
+![Flyway](https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white)
 
-**Cloud & DevOps** <sub>(학습 · 확장 중)</sub>
+**DevOps & Infra**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ---
 
@@ -79,7 +88,7 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| [**StockOps**](https://github.com/hansLee-it/stockops-api-server) <sub>(팀 프로젝트)</sub> | 스마트 재고관리 ERP — 재고 추적(FIFO/FEFO), 발주 관리, **AI 수요예측**, 권한 분리(Global/Center/Warehouse). API 서버 · 관리자/클라이언트 웹 · AI 모듈 · 센서 시뮬레이터로 구성된 멀티서비스 | Spring Boot, Java 21, PostgreSQL, React, FastAPI, Go |
+| [**StockOps**](https://github.com/hansLee-it?tab=repositories&q=stockops) <sub>(팀 프로젝트)</sub> | 스마트 재고관리 ERP — 재고 추적(FIFO/FEFO), 발주 관리, **AI 수요예측**, 권한 분리(Global/Center/Warehouse). API 서버 · 관리자/클라이언트 웹 · AI 모듈 · 센서 시뮬레이터로 구성된 멀티서비스 | Spring Boot, Java 21, PostgreSQL, React, FastAPI, Go |
 | [**SenSimul**](https://github.com/hansLee-it/sensimul) | 물류·냉동창고 등 현장 환경 데이터를 **MQTT로 발행**하는 Go 기반 센서 시뮬레이터 CLI — 실제 센서 없이 IoT 시스템 테스트 환경 제공 | Go, MQTT, Docker |
 | [**Facility Check System**](https://github.com/hansLee-it/facility_check_SPB_public_v1) | 웹 기반 시설물 점검 시스템 — 맞춤형 점검 계획 및 점검 기록 관리 | Spring Boot, MariaDB, MyBatis, Thymeleaf |
 
