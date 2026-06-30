@@ -21,7 +21,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-it.hans.lee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:it.hans.lee@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-githubpage.ithans.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://githubpage.ithans.com/en/)
+[![Homepage](https://img.shields.io/badge/Homepage-githubpage.ithans.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://githubpage.ithans.com/en/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ithanslee-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ithanslee)
 [![GitHub](https://img.shields.io/badge/GitHub-hansLee--it-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hansLee-it)
 
 </div>
@@ -30,7 +31,6 @@
 
 ## 🙋 About Me
 
-- 🔭 Spent about **2 years and 4 months** building construction-safety & monitoring systems (Spring / Spring Boot).
 - 🧩 Hands-on experience across backend, admin web apps, and field integrations — **CCTV streaming, PTZ control, IoT sensors, and MQTT servers**.
 - 🌱 Currently expanding my skills in cloud deployment & operations with **AWS, Docker, and Terraform**.
 - 🏆 **AWS Certified Solutions Architect – Associate**

@@ -25,7 +25,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-it.hans.lee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:it.hans.lee@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-githubpage.ithans.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://githubpage.ithans.com/)
+[![Homepage](https://img.shields.io/badge/홈페이지-githubpage.ithans.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://githubpage.ithans.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ithanslee-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ithanslee)
 [![GitHub](https://img.shields.io/badge/GitHub-hansLee--it-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hansLee-it)
 
 </div>
@@ -34,7 +35,6 @@
 
 ## 🙋 About Me
 
-- 🔭 약 **2년 4개월**간 건설안전관리 · 관제 시스템을 개발했습니다. (Spring / Spring Boot 중심)
 - 🧩 백엔드 기능, 관리자 웹앱, **CCTV 스트리밍 · PTZ 제어 · IoT 센서 · MQTT 서버** 구성까지 현장 운영과 맞닿은 기능을 경험했습니다.
 - 🌱 현재 **AWS · Docker · Terraform** 기반 클라우드 배포 / 운영 역량을 확장하고 있습니다.
 - 🏆 **AWS Certified Solutions Architect – Associate** 보유
