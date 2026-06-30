@@ -31,10 +31,11 @@
 
 ## 🙋 About Me
 
-- 🧩 Hands-on experience across backend, admin web apps, and field integrations — **CCTV streaming, PTZ control, IoT sensors, and MQTT servers**.
-- 🌱 Currently expanding my skills in cloud deployment & operations with **AWS, Docker, and Terraform**.
-- 🏆 **AWS Certified Solutions Architect – Associate**
-- 🧠 When I hit a problem, I narrow down the root cause step by step — checking logs, configs, servers, and external integrations together.
+- 🧰 My main stack is **Java & Spring Boot**.
+- ☁️ I used to be deep into **server setup and cloud infrastructure / deployment** — and earned my **AWS Certified Solutions Architect – Associate** along the way.
+- 🤖 These days I'm most excited about **AI development, especially AIOps** — bringing AI into how we build and operate software.
+- 🧩 I don't like staying tied to one field or language; I'll pick up a new stack whenever a project calls for it.
+- 🧠 I enjoy working with **my own set of rules and consistency**. That said, now that I build a lot alongside AI, I care less about polishing style and more about **code whose intent and structure are clear and that simply runs without bugs**.
 
 ---
 
