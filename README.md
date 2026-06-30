@@ -25,7 +25,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-it.hans.lee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:it.hans.lee@gmail.com)
-[![Homepage](https://img.shields.io/badge/홈페이지-githubpage.ithans.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://githubpage.ithans.com/)
+[![Homepage](https://img.shields.io/badge/Homepage-githubpage.ithans.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://githubpage.ithans.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ithanslee-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ithanslee)
 [![GitHub](https://img.shields.io/badge/GitHub-hansLee--it-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hansLee-it)
 
