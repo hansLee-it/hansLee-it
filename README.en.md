@@ -15,7 +15,7 @@
 <h1 align="center">Hi, I'm Hyunsoo Lee (Hans) 👋</h1>
 
 <p align="center">
-  <em>A backend & web developer who cares not just about building features, but about making systems run reliably in real-world operations.</em>
+  <em>A developer who isn't bound to a single field or language —<br/>pairing a meticulous, won't-let-a-single-bug-slip mindset with a steady stream of new ideas for doing things better.</em>
 </p>
 
 <div align="center">
