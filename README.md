@@ -98,8 +98,8 @@
 
 <div align="center">
 
-![Hans's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hansLee-it&show_icons=true&hide_border=true&count_private=true&theme=default)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hansLee-it&layout=compact&hide_border=true&theme=default)
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hansLee-it&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=2563eb&icon_color=2563eb&text_color=808080" alt="Hyunsoo Lee's GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hansLee-it&layout=compact&hide_border=true&bg_color=00000000&title_color=2563eb&text_color=808080" alt="Top languages" />
 
 </div>
 
