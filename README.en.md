@@ -71,14 +71,6 @@
 
 ---
 
-## 💼 Experience
-
-**RiskZero · Development Team** &nbsp;|&nbsp; May 2021 – Aug 2023 (~2 yrs 4 mos)
-
-Built construction-safety & monitoring systems with a focus on web/backend development. Beyond implementing features, I handled server setup, external device integration, data flow, and root-cause analysis to keep systems stable in real operating environments.
-
----
-
 ## 🚀 Projects
 
 | Project | Role · Impact | Tech |
