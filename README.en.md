@@ -73,13 +73,11 @@
 
 ## 🚀 Projects
 
-| Project | Role · Impact | Tech |
+| Project | Description | Tech |
 |---|---|---|
-| **KALIS Smart-Construction Decision System** | Backend development, project structure & coding conventions, team collaboration — **ranked #1** at the annual R&D review | Spring Boot, Java, MQTT, CCTV streaming, IoT |
-| **Ulsan Bukshinhang Safety System** | SMS integration (Aligo API), CCTV **PTZ control**, streaming server setup — reduced external-solution cost | Spring, PTZ, Streaming Server |
-| **Kolon Global Risk Monitoring** | Admin web app renewal, **QR-based attendance & shift planning** | Java, Spring, QR |
-| **Worker Risk-Scoring AI Research** | Moved training from CPU to GPU, cutting time **4 hrs → 20 min**; text mining & result visualization | Python, TensorFlow, Flask |
-| **StockOps** <sub>(personal/study)</sub> | Designed cloud deployment architecture for an inventory system — splitting API, web, sensor, MQTT, and DB | Spring Boot, React, Go, AWS, Docker |
+| [**StockOps**](https://github.com/hansLee-it/stockops-api-server) <sub>(team project)</sub> | Smart inventory-management ERP — inventory tracking (FIFO/FEFO), purchase orders, **AI demand forecasting**, scoped authorization (Global/Center/Warehouse). A multi-service system: API server, admin/client web, AI module, and sensor simulator | Spring Boot, Java 21, PostgreSQL, React, FastAPI, Go |
+| [**SenSimul**](https://github.com/hansLee-it/sensimul) | A Go-based sensor-simulator CLI that **publishes field environment data over MQTT** — provides an IoT test environment without real sensors | Go, MQTT, Docker |
+| [**Facility Check System**](https://github.com/hansLee-it/facility_check_SPB_public_v1) | Web-based facility-inspection system — custom inspection plans and inspection-record management | Spring Boot, MariaDB, MyBatis, Thymeleaf |
 
 ---
 

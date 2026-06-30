@@ -77,13 +77,11 @@
 
 ## 🚀 Projects
 
-| 프로젝트 | 역할 · 성과 | 기술 |
+| 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| **국토안전관리원 스마트건설 의사결정시스템** | 백엔드 기능 개발, 프로젝트 구조 · 개발 규칙 정리, 팀 협업 주도 — 연구과제 발표회 **평가점수 1위** | Spring Boot, Java, MQTT, CCTV 스트리밍, IoT |
-| **울산북신항 안전관리시스템** | 문자 발송(알리고 API) 연동, CCTV **PTZ 제어**, 스트리밍 서버 구축 — 외부 솔루션 비용 절감 | Spring, PTZ, Streaming Server |
-| **코오롱글로벌 위험요인 모니터링** | 관리자 웹앱 리뉴얼, **QR 기반 출퇴근 · 근무계획** 기능 개발 | Java, Spring, QR |
-| **건설 근로자 위험도 AI 연구** | 학습 환경을 CPU→GPU로 전환해 학습 시간 **4시간 → 20분** 단축, 텍스트 마이닝 · 결과 시각화 | Python, TensorFlow, Flask |
-| **StockOps** <sub>(개인/학습)</sub> | 재고 관리 시스템의 클라우드 배포 구조 정리 — API · 웹 · 센서 · MQTT · DB 분리 설계 | Spring Boot, React, Go, AWS, Docker |
+| [**StockOps**](https://github.com/hansLee-it/stockops-api-server) <sub>(팀 프로젝트)</sub> | 스마트 재고관리 ERP — 재고 추적(FIFO/FEFO), 발주 관리, **AI 수요예측**, 권한 분리(Global/Center/Warehouse). API 서버 · 관리자/클라이언트 웹 · AI 모듈 · 센서 시뮬레이터로 구성된 멀티서비스 | Spring Boot, Java 21, PostgreSQL, React, FastAPI, Go |
+| [**SenSimul**](https://github.com/hansLee-it/sensimul) | 물류·냉동창고 등 현장 환경 데이터를 **MQTT로 발행**하는 Go 기반 센서 시뮬레이터 CLI — 실제 센서 없이 IoT 시스템 테스트 환경 제공 | Go, MQTT, Docker |
+| [**Facility Check System**](https://github.com/hansLee-it/facility_check_SPB_public_v1) | 웹 기반 시설물 점검 시스템 — 맞춤형 점검 계획 및 점검 기록 관리 | Spring Boot, MariaDB, MyBatis, Thymeleaf |
 
 ---
 
