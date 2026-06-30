@@ -32,10 +32,9 @@
 ## 🙋 About Me
 
 - 🧰 My main stack is **Java & Spring Boot**.
-- ☁️ I used to be deep into **server setup and cloud infrastructure / deployment** — and earned my **AWS Certified Solutions Architect – Associate** along the way.
-- 🤖 These days I'm most excited about **AI development, especially AIOps** — bringing AI into how we build and operate software.
+- ☁️ I used to be really into **server setup and cloud infrastructure / deployment**.
+- 🤖 These days I'm hooked on **AI development** — especially **LLM-based agents & automation** and **AIOps**, bringing AI into operations automation.
 - 🧩 I don't like staying tied to one field or language; I'll pick up a new stack whenever a project calls for it.
-- 🧠 I enjoy working with **my own set of rules and consistency**. That said, now that I build a lot alongside AI, I care less about polishing style and more about **code whose intent and structure are clear and that simply runs without bugs**.
 
 ---
 
